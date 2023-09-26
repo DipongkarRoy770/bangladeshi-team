@@ -1,0 +1,134 @@
+[
+    {  
+      "id":"1",
+      "picture": "https://www.metrocontinuingeducation.ca/wp-content/uploads/2019/01/in-class-students-high-school.jpg",
+      "title": "Bachelor of Science in Biology",
+      "category": "education",
+      "category_bg": "#FF444A",
+      "card_bg":"#FF444A",
+      "text_button_background":"#FF444A",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 199.99 
+    },
+    {
+      "id":"2",
+      "picture": "https://bannermountainartisans.com/wp-content/gallery/rigdon-clothing/Clothing-9.jpg",
+      "title": "Fashion Designer for Luxury Brands",
+      "category": "Clothing",
+      "category_bg": "#79c23F",
+      "card_bg":"#79c23F",
+      "text_button_background":"#79c23F",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 49.99
+    },
+    {
+      "id":"3",
+      "picture": "https://constative.com/wp-content/uploads/2015/07/food.jpg",
+      "title": "Pastry Chef and Dessert Artisan",
+      "category": "Food",
+      "category_bg": "#f87147",
+      "card_bg":"#f87147",
+      "text_button_background":"#f87147",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 79.99 
+    },
+    { 
+      "id":"4",
+      "picture": "https://i.ibb.co/sbpYDws/Health.png",
+      "title": "Board-Certified Family Medicine Physician",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg":"#0052FF",
+      "text_button_background":"#0052FF",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 29.99
+    },
+    { 
+      "id":"5",
+      "picture": "https://insidesources.com/wp-content/uploads/2014/06/bigstock-Group-of-students-in-computer-48267173.jpg",
+      "title": "High School Diploma with Honors",
+      "category": "education",
+      "category_bg": "#FF444A",
+      "card_bg":"#FF444A",
+      "text_button_background":"#FF444A",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 199.99
+    },
+    {
+      "id":"6",
+      "picture": "https://th.bing.com/th/id/OIP.e-fdcD0E35O6sbd6QnM55gHaJK?pid=ImgDet&rs=1",
+      "title": "Retail Store Manager in Fashion",
+      "category": "Clothing",
+      "category_bg": "#79c23F",
+      "card_bg":"#79c23F",
+      "text_button_background":"#79c23F",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 49.99
+    },
+    {
+      "id":"7",
+      "picture": "https://twomonkeys.in/wp-content/uploads/2019/12/Food_104.jpg",
+      "title": "Sushi Master and Culinary Artist",
+      "category": "Food",
+      "category_bg": "#f87147",
+      "card_bg":"#f87147",
+      "text_button_background":"#f87147",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 79.99
+    },
+    { 
+      "id":"8",
+      "picture": "https://th.bing.com/th/id/R.089f4e73e4fead34e343f55094a8b590?rik=9RtQu%2bIBX1kyWA&pid=ImgRaw&r=0",
+      "title": "Physical Therapist for Rehabilitation",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg":"#0052FF",
+      "text_button_background":"#0052FF",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 29.99
+    },
+    {
+      "id":"9",
+      "picture": "https://lerablog.org/wp-content/uploads/2020/02/College-Education.jpg",
+      "title": "Associate Degree in Nursing",
+      "category": "education",
+      "category_bg": "#FF444A",
+      "card_bg":"#FF444A",
+      "text_button_background":"#FF444A",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 199.99
+    },
+    {
+      "id":"10",
+      "picture": "https://th.bing.com/th/id/OIP.Do96Knt5kuHc4hHQqAENyQAAAA?pid=ImgDet&rs=1",
+      "title": "Fashion Merchandising and Marketing",
+      "category": "Clothing",
+      "category_bg": "#79c23F",
+      "card_bg":"#79c23F",
+      "text_button_background":"#79c23F",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 49.99 
+    },
+    {  "id":"11",
+      "picture": "https://c.pxhere.com/photos/6d/81/Pasta_Pastas-1611881.jpg!d",
+      "title": "Gourmet French Cuisine Chef",
+      "category": "Food",
+      "category_bg": "#f87147",
+      "card_bg":"#f87147",
+      "text_button_background":"#f87147",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": 79.99
+    },
+    {
+      "id":"12",
+      "picture": "https://www.betternutrition.com/wp-content/uploads/sites/8/2017/06/heart-health.jpg",
+      "title": "Clinical Psychologist Specializing in CBT",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg":"#0052FF",
+      "text_button_background":"#0052FF",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 29.99
+    }
+    
+]
